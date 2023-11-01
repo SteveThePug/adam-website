@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2021-11-09 03:05:23
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2021-11-09 03:05:23 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.221.155.250 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 476 184 178
-2021-11-09 03:05:52 W3SVC1069003075 88.208.252.146 GET /favicon.ico - 80 - 18.237.254.155 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 404 0 2 1406 195 183
-2021-11-09 03:05:54 W3SVC1069003075 88.208.252.146 GET / - 80 - 18.237.254.155 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 476 184 185

@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-04-28 15:30:16
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2022-04-28 15:30:15 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 94.130.237.95 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - - 404 0 2 1406 262 108
-2022-04-28 15:30:15 W3SVC1069003075 88.208.252.146 GET /sitemap.xml - 80 - 94.130.237.95 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - - 404 0 2 1406 263 22
-2022-04-28 15:30:19 W3SVC1069003075 88.208.252.146 GET /sitemap.xml - 80 - 94.130.237.95 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - - 404 0 2 1406 267 22

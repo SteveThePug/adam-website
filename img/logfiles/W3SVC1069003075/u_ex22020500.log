@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-02-05 00:16:04
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2022-02-05 00:16:04 W3SVC1069003075 88.208.252.146 GET / - 80 - 92.118.160.61 HTTP/1.1 NetSystemsResearch+studies+the+availability+of+various+services+across+the+internet.+Our+website+is+netsystemsresearch.com - - 200 0 0 310 183 229
-2022-02-05 00:26:50 W3SVC1069003075 88.208.252.146 GET / - 80 - 20.196.212.203 HTTP/1.1 - - - 200 0 0 329 121 229
-2022-02-05 00:33:18 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.253.195.146 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/92.0.4515.159+Safari/537.36+Edg/92.0.902.84 - - 200 0 0 495 236 15

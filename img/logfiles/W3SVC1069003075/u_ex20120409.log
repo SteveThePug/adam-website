@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2020-12-04 09:35:59
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2020-12-04 09:35:59 W3SVC1069003075 88.208.252.146 GET /.env - 80 - 159.203.22.167 HTTP/1.1 curl/7.58.0 - - 404 0 2 1406 85 242
-2020-12-04 09:35:59 W3SVC1069003075 88.208.252.146 POST / - 80 - 159.203.22.167 HTTP/1.1 curl/7.58.0 - - 405 0 1 1497 155 92

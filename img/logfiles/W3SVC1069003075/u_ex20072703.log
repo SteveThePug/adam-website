@@ -1,8 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2020-07-27 03:14:53
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2020-07-27 03:14:52 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 82.165.224.64 HTTP/1.1 crawler4j+(https://github.com/yasserg/crawler4j/) - - 404 0 2 1406 171 156
-2020-07-27 03:15:39 W3SVC1069003075 88.208.252.146 GET /sitemap.xml - 80 - 82.165.224.104 HTTP/1.1 crawler4j+(https://github.com/yasserg/crawler4j/) - - 404 0 2 1406 172 19
-2020-07-27 03:15:40 W3SVC1069003075 88.208.252.146 GET / - 80 - 82.165.224.104 HTTP/1.1 crawler4j+(https://github.com/yasserg/crawler4j/) - - 200 0 0 1041 161 23
-2020-07-27 03:15:41 W3SVC1069003075 88.208.252.146 GET /wp-admin/admin-ajax.php - 80 - 82.165.224.104 HTTP/1.1 crawler4j+(https://github.com/yasserg/crawler4j/) - - 404 0 2 1406 184 22

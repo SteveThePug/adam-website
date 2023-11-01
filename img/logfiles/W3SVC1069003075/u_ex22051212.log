@@ -1,9 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-05-12 12:10:27
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2022-05-12 12:10:27 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.240.231.136 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.14;+rv:70.0)+Gecko/20100101+Firefox/70.0 - - 200 0 0 329 158 105
-2022-05-12 12:10:27 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.240.231.136 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.14;+rv:70.0)+Gecko/20100101+Firefox/70.0 - - 200 0 0 476 282 17
-2022-05-12 12:10:27 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.240.231.136 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.14;+rv:70.0)+Gecko/20100101+Firefox/70.0 - - 200 0 0 329 316 18
-2022-05-12 12:10:28 W3SVC1069003075 88.208.252.146 GET / - 80 - 63.33.69.59 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.14;+rv:70.0)+Gecko/20100101+Firefox/70.0 - - 200 0 0 476 282 17
-2022-05-12 12:10:28 W3SVC1069003075 88.208.252.146 GET / - 80 - 54.74.115.13 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.14;+rv:70.0)+Gecko/20100101+Firefox/70.0 - - 200 0 0 476 282 17

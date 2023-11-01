@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2021-06-26 05:01:27
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2021-06-26 05:01:27 W3SVC1069003075 88.208.252.146 GET / - 80 - 162.55.212.198 HTTP/1.1 Mozilla/5.0+(Android+8.0.0;+Mobile;+rv:61.0)+Gecko/61.0+Firefox/68.0 - - 200 0 0 624 247 189
-2021-06-26 05:09:14 W3SVC1069003075 88.208.252.146 GET /editor/filemanager/connectors/asp/connector.asp Command=GetFoldersAndFiles&Type=File&CurrentFolder=%2F 80 - 5.188.210.4 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - - 403 503 5 1413 423 54

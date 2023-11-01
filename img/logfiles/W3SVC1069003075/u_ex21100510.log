@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2021-10-05 10:09:38
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2021-10-05 10:09:38 W3SVC1069003075 88.208.252.146 GET /home - 80 - 129.11.32.245 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.71+Safari/537.36+Edg/94.0.992.38 - - 404 0 2 1406 456 191
-2021-10-05 10:09:41 W3SVC1069003075 88.208.252.146 GET /3d - 80 - 129.11.32.245 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.71+Safari/537.36+Edg/94.0.992.38 - - 404 0 2 1406 454 13
-2021-10-05 10:09:46 W3SVC1069003075 88.208.252.146 GET /index - 80 - 129.11.32.245 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.71+Safari/537.36+Edg/94.0.992.38 - - 404 0 2 1406 457 12

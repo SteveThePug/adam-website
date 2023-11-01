@@ -1,5 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2021-05-15 06:06:55
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2021-05-15 06:06:55 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.77.162.27 HTTP/1.1 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - - 200 0 0 553 326 163

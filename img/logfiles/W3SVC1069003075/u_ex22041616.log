@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-04-16 16:25:21
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2022-04-16 16:25:20 W3SVC1069003075 88.208.252.146 GET /_profiler/phpinfo - 80 - 198.244.216.33 HTTP/1.1 - - - 404 0 2 1406 115 208
-2022-04-16 16:25:20 W3SVC1069003075 88.208.252.146 GET /.env - 80 - 198.244.216.33 HTTP/1.1 - - - 404 0 2 1406 102 221
-2022-04-16 16:25:20 W3SVC1069003075 88.208.252.146 GET /info.php/_profiler/phpinfo - 80 - 198.244.216.33 HTTP/1.1 - - - 404 0 2 1406 124 236

@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2021-04-24 15:19:36
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2021-04-24 15:19:35 W3SVC1069003075 88.208.252.146 GET /FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php Command=GetFoldersAndFiles&Type=File&CurrentFolder=%2F 80 - 5.188.210.27 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - - 404 0 2 1425 449 210
-2021-04-24 15:20:19 W3SVC1069003075 88.208.252.146 GET / - 80 - 52.15.91.24 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - - 200 0 0 624 281 99

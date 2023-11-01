@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-03-15 06:16:02
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2022-03-15 06:16:01 W3SVC1069003075 88.208.252.146 GET / - 80 - 20.89.102.219 HTTP/1.1 python-requests/2.27.1 - - 200 0 0 476 148 317
-2022-03-15 06:16:02 W3SVC1069003075 88.208.252.146 GET /_profiler/empty/search/results - 80 - 20.89.102.219 HTTP/1.1 python-requests/2.27.1 - - 404 0 2 1406 178 234

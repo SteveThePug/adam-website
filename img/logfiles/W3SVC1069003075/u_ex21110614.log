@@ -1,5 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2021-11-06 14:35:52
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2021-11-06 14:35:52 W3SVC1069003075 88.208.252.146 GET / - 80 - 95.85.255.58 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2228.0+Safari/537.36+Lynt.cz PHPSESSID=9cf7ee3a8dfebd0a40fc38d578811a2e;+TLTSID=C450BD843CEC103C0027B528F175224F;+TLTUID=C450BD843CEC103C0027B528F175224F;+TS01a31ce3=01e3266caf7dbd814a2ecb490c29c5eeeaae81d7203d776753490f7ce857b77cedb8ac0ec3e72c5ee7ed678182deae9a93b368245a;+locale=en_us - 200 0 0 476 477 250

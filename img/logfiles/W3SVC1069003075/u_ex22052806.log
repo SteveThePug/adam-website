@@ -1,9 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-05-28 06:20:47
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2022-05-28 06:20:46 W3SVC1069003075 88.208.252.146 GET / - 80 - 51.158.121.213 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4692.99+Safari/537.36 - - 200 0 0 495 267 125
-2022-05-28 06:29:24 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 51.15.245.122 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/98.0.4758.82+Safari/537.36 - - 404 0 2 1425 277 15
-2022-05-28 06:31:30 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 163.172.171.136 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/101.0.4950.0+Safari/537.36 - - 404 0 2 1406 445 14
-2022-05-28 06:34:11 W3SVC1069003075 88.208.252.146 GET /sitemap.xml - 80 - 163.172.129.138 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4692.99+Safari/537.36 - - 404 0 2 1425 284 16
-2022-05-28 06:36:18 W3SVC1069003075 88.208.252.146 GET /sitemap.xml - 80 - 212.47.247.37 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/101.0.4950.0+Safari/537.36 - - 404 0 2 1406 446 18
