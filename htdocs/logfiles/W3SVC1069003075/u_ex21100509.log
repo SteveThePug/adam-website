@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-10-05 09:27:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-10-05 09:27:35 W3SVC1069003075 88.208.252.146 HEAD / - 80 - 129.11.32.245 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.71+Safari/537.36+Edg/94.0.992.38 - - 200 0 0 295 289 229
+2021-10-05 09:33:56 W3SVC1069003075 88.208.252.146 GET / - 80 - 129.11.32.245 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.71+Safari/537.36+Edg/94.0.992.38 - - 200 0 0 624 452 65
+2021-10-05 09:33:56 W3SVC1069003075 88.208.252.146 GET /stylesheet.css - 80 - 129.11.32.245 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.71+Safari/537.36+Edg/94.0.992.38 - http://adam-french.co.uk/ 200 0 0 513 366 56
+2021-10-05 09:33:56 W3SVC1069003075 88.208.252.146 GET /favicon.ico - 80 - 129.11.32.245 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.71+Safari/537.36+Edg/94.0.992.38 - http://adam-french.co.uk/ 404 0 2 1406 398 13
+2021-10-05 09:34:11 W3SVC1069003075 88.208.252.146 GET /index - 80 - 129.11.32.245 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.71+Safari/537.36+Edg/94.0.992.38 - - 404 0 2 1406 457 12
+2021-10-05 09:45:44 W3SVC1069003075 88.208.252.146 GET / - 80 - 194.80.232.69 HTTP/1.1 WhatsApp/2.21.181.1+i - - 206 0 0 598 193 19

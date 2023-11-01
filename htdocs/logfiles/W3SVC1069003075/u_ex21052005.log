@@ -1,0 +1,9 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-20 05:42:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-05-20 05:42:13 W3SVC1069003075 88.208.252.146 GET / - 80 - 18.194.196.202 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 - - 200 0 0 624 209 234
+2021-05-20 05:42:13 W3SVC1069003075 88.208.252.146 GET /wp-login.php - 80 - 18.194.196.202 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 - - 404 0 2 1406 221 19
+2021-05-20 05:42:13 W3SVC1069003075 88.208.252.146 GET /wordpress/wp-login.php - 80 - 18.194.196.202 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 - - 404 0 2 1406 231 18
+2021-05-20 05:42:13 W3SVC1069003075 88.208.252.146 GET /blog/wp-login.php - 80 - 18.194.196.202 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 - - 404 0 2 1406 226 18
+2021-05-20 05:42:13 W3SVC1069003075 88.208.252.146 GET /wp/wp-login.php - 80 - 18.194.196.202 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 - - 404 0 2 1406 224 17

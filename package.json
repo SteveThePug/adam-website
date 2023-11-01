@@ -1,0 +1,23 @@
+{
+  "name": "adam_website",
+  "version": "1.0.0",
+  "description": "My website",
+  "main": "webpack.config.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "three": "^0.150.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.76.2",
+    "webpack-cli": "^5.0.1"
+  },
+  "scripts": {
+    "build": "webpack --mode=development --config webpack.config.js",
+    "prod": "webpack --mode=production --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

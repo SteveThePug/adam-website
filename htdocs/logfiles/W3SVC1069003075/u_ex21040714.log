@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-04-07 14:11:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-04-07 14:11:14 W3SVC1069003075 88.208.252.146 GET / - 80 - 213.171.217.172 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.101+Safari/537.36 - - 200 0 0 553 194 212
+2021-04-07 14:25:39 W3SVC1069003075 88.208.252.146 GET / - 80 - 192.99.100.141 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/85.0.4183.83+Safari/537.36 - https://www.google.com 200 0 0 624 301 107
+2021-04-07 14:25:39 W3SVC1069003075 88.208.252.146 GET /wp-links-opml.php - 80 - 192.99.100.141 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/85.0.4183.83+Safari/537.36 - https://www.google.com 404 0 2 1406 295 107
+2021-04-07 14:25:39 W3SVC1069003075 88.208.252.146 GET / - 80 - 192.99.100.141 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/85.0.4183.83+Safari/537.36 - https://www.google.com 200 0 0 553 278 109
+2021-04-07 14:25:39 W3SVC1069003075 88.208.252.146 GET /feed/ - 80 - 192.99.100.141 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/85.0.4183.83+Safari/537.36 - https://www.google.com 404 0 2 1406 283 108
+2021-04-07 14:25:39 W3SVC1069003075 88.208.252.146 GET /readme.html - 80 - 192.99.100.141 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/85.0.4183.83+Safari/537.36 - https://www.google.com 404 0 2 1406 289 111
+2021-04-07 14:25:39 W3SVC1069003075 88.208.252.146 GET /sitemap.xml - 80 - 192.99.100.141 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/85.0.4183.83+Safari/537.36 - https://www.google.com 404 0 2 1406 289 109
+2021-04-07 14:25:40 W3SVC1069003075 88.208.252.146 GET / - 80 - 192.99.100.141 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/85.0.4183.83+Safari/537.36 - - 200 0 0 624 214 109

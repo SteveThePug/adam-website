@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-08-31 21:38:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-08-31 21:38:18 W3SVC1069003075 88.208.252.146 GET / - 80 - 3.249.241.80 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.105+Safari/537.36 TLTSID=C6AAC72AEBAB10EB001ADF8F8700BB39;+TLTUID=C6AAC72AEBAB10EB001ADF8F8700BB39;+TS01a31ce3=01e3266caf6d94fbdee191d34c4c65f6455e49e482202a261966211fb88ac833150a7cc0559e7e395926295c778af6c79c1cb8e2ed42c4a061e91754ac1ef1877c6dcd2a565e24f5f4ece40ff5944481f715dd1138;+locale=en_us;+CFID=Z6daz8m8csji4vf0oq3ci5g98l4z8hs91fhm2jiom7sm0ooyy13-116856914;+CFTOKEN=Z6daz8m8csji4vf0oq3ci5g98l4z8hs91fhm2jiom7sm0ooyy13-993eedb4ee78dc0a-B8BB2E77-9BBB-C7E1-5D8EFD5A1B7AED48;+PHPSESSID=bufbh54kch62t1tepejvob98m4 - 200 0 0 624 811 149

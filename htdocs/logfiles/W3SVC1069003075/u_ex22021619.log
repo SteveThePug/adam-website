@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-02-16 19:12:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2022-02-16 19:12:15 W3SVC1069003075 88.208.252.146 GET / - 80 - 3.249.215.112 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:81.0)+Gecko/20100101+Firefox/81.0 - - 200 0 0 495 181 151
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-02-16 19:57:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2022-02-16 19:57:46 W3SVC1069003075 88.208.252.146 GET /ab0ut.php - 80 - 87.251.85.227 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) - http://adam-french.co.uk/ab0ut.php 404 0 2 1425 217 199

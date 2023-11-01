@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-02-07 14:32:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-02-07 14:32:44 W3SVC1069003075 88.208.252.146 GET / - 80 - 52.51.111.215 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.105+Safari/537.36 locale=en_us;+CFID=Z6daz8m8csji4vf0oq3ci5g98l4z8hs91fhm2jiom7sm0ooyy13-15705014;+CFTOKEN=Z6daz8m8csji4vf0oq3ci5g98l4z8hs91fhm2jiom7sm0ooyy13-a7f324b3f3d25410-D85F3E8D-5056-9D86-2A86D70483847F26 - 200 0 0 553 475 191

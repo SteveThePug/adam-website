@@ -1,0 +1,16 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-04-15 10:29:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2022-04-15 10:29:55 W3SVC1069003075 88.208.252.146 GET / - 80 - 5.188.62.76 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2224.3+Safari/537.36 beget=begetok - 200 0 0 476 235 420
+2022-04-15 10:29:59 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 5.188.62.76 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2224.3+Safari/537.36 beget=begetok - 404 0 2 1406 245 129
+2022-04-15 10:41:05 W3SVC1069003075 88.208.252.146 HEAD /wordpress - 80 - 38.242.246.83 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - - 404 0 2 161 195 18
+2022-04-15 10:41:05 W3SVC1069003075 88.208.252.146 HEAD / - 80 - 38.242.246.83 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - - 200 0 0 247 186 41
+2022-04-15 10:41:05 W3SVC1069003075 88.208.252.146 HEAD /wp - 80 - 38.242.246.83 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - - 404 0 2 161 188 65
+2022-04-15 10:41:05 W3SVC1069003075 88.208.252.146 HEAD /bc - 80 - 38.242.246.83 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - - 404 0 2 161 188 58
+2022-04-15 10:41:05 W3SVC1069003075 88.208.252.146 HEAD /bk - 80 - 38.242.246.83 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - - 404 0 2 161 188 96
+2022-04-15 10:41:05 W3SVC1069003075 88.208.252.146 HEAD /backup - 80 - 38.242.246.83 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - - 404 0 2 161 192 34
+2022-04-15 10:41:05 W3SVC1069003075 88.208.252.146 HEAD /old - 80 - 38.242.246.83 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - - 404 0 2 161 189 66
+2022-04-15 10:41:06 W3SVC1069003075 88.208.252.146 HEAD /new - 80 - 38.242.246.83 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - - 404 0 2 161 189 55
+2022-04-15 10:41:06 W3SVC1069003075 88.208.252.146 HEAD /main - 80 - 38.242.246.83 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - - 404 0 2 161 190 29
+2022-04-15 10:41:06 W3SVC1069003075 88.208.252.146 HEAD /home - 80 - 38.242.246.83 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - - 404 0 2 161 190 53

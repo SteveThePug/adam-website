@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-29 03:24:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-05-29 03:24:20 W3SVC1069003075 88.208.252.146 GET / - 80 - 35.161.134.150 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 624 184 303
+2021-05-29 03:24:49 W3SVC1069003075 88.208.252.146 GET /favicon.ico - 80 - 18.237.153.118 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 404 0 2 1406 195 154
+2021-05-29 03:24:54 W3SVC1069003075 88.208.252.146 GET / - 80 - 18.237.153.118 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 624 184 154
+2021-05-29 03:26:40 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.222.131.203 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 624 184 151
+2021-05-29 03:31:05 W3SVC1069003075 88.208.252.146 GET /favicon.ico - 80 - 54.244.26.122 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 404 0 2 1406 195 151
+2021-05-29 03:31:08 W3SVC1069003075 88.208.252.146 GET / - 80 - 54.244.26.122 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 624 184 152
+2021-05-29 03:31:20 W3SVC1069003075 88.208.252.146 GET / - 80 - 54.200.135.232 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 624 184 152
+2021-05-29 03:32:06 W3SVC1069003075 88.208.252.146 GET /favicon.ico - 80 - 54.185.185.79 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 404 0 2 1406 195 153

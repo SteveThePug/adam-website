@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-09-21 23:18:06
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-09-21 23:18:06 W3SVC1069003075 88.208.252.146 GET / - 80 - 45.130.128.12 HTTP/1.1 Drupal/8.9.16+(+https://www.drupal.org/)+GuzzleHttp/6.5.5+curl/7.29.0+PHP/7.3.30 - - 200 0 0 643 198 213
+2021-09-21 23:18:07 W3SVC1069003075 88.208.252.146 GET /license.txt - 80 - 64.43.89.183 HTTP/1.1 Drupal/8.9.16+(+https://www.drupal.org/)+GuzzleHttp/6.5.5+curl/7.29.0+PHP/7.3.30 - - 404 0 2 1425 209 44
+2021-09-21 23:18:08 W3SVC1069003075 88.208.252.146 GET /media/system/js/core.js - 80 - 45.94.46.38 HTTP/1.1 Drupal/8.9.16+(+https://www.drupal.org/)+GuzzleHttp/6.5.5+curl/7.29.0+PHP/7.3.30 - - 404 0 2 1425 221 17

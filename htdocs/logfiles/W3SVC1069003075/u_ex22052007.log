@@ -1,0 +1,13 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-05-20 07:17:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2022-05-20 07:17:21 W3SVC1069003075 88.208.252.146 POST /ALFA_DATA/alfacgiapi/perl.alfa - 80 - 104.211.229.81 HTTP/1.1 Mozlila/5.0+(Linux;+Android+7.0;+SM-G892A+Bulid/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/60.0.3112.107+Moblie+Safari/537.36 - www.google.com 404 0 2 1406 620 240
+2022-05-20 07:17:21 W3SVC1069003075 88.208.252.146 GET / - 80 - 104.211.229.81 HTTP/1.1 Mozlila/5.0+(Linux;+Android+7.0;+SM-G892A+Bulid/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/60.0.3112.107+Moblie+Safari/537.36 - - 200 0 0 310 426 313
+2022-05-20 07:17:21 W3SVC1069003075 88.208.252.146 POST /alfacgiapi/perl.alfa - 80 - 104.211.229.81 HTTP/1.1 Mozlila/5.0+(Linux;+Android+7.0;+SM-G892A+Bulid/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/60.0.3112.107+Moblie+Safari/537.36 - www.google.com 404 0 2 1406 610 229
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-05-20 07:50:42
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2022-05-20 07:50:41 W3SVC1069003075 88.208.252.146 GET /.env - 80 - 143.198.39.148 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 235 209
+2022-05-20 07:50:41 W3SVC1069003075 88.208.252.146 POST / - 80 - 143.198.39.148 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 405 0 1 1497 321 92

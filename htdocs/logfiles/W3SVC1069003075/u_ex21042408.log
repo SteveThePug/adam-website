@@ -1,0 +1,9 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-04-24 08:21:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-04-24 08:21:57 W3SVC1069003075 88.208.252.146 GET /editor/editor/filemanager/upload/php/upload.php - 80 - 5.188.210.27 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - - 404 0 2 1425 368 218
+2021-04-24 08:33:56 W3SVC1069003075 88.208.252.146 GET /mambots/editors/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php Command=GetFoldersAndFiles&Type=File&CurrentFolder=%2F 80 - 5.188.210.27 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - - 404 0 2 1425 465 54
+2021-04-24 08:42:59 W3SVC1069003075 88.208.252.146 GET /admin/fckeditor/editor/filemanager/upload/php/upload.php - 80 - 5.188.210.27 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - - 404 0 2 1425 377 54
+2021-04-24 08:43:41 W3SVC1069003075 88.208.252.146 GET /editor/editor/filemanager/browser/default/connectors/php/connector.php Command=GetFoldersAndFiles&Type=File&CurrentFolder=%2F 80 - 5.188.210.27 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - - 404 0 2 1425 446 54
+2021-04-24 08:50:53 W3SVC1069003075 88.208.252.146 GET /fckeditor/editor/filemanager/upload/php/upload.php - 80 - 5.188.210.27 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - - 404 0 2 1425 371 54

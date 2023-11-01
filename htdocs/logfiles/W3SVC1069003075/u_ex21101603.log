@@ -1,0 +1,29 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-10-16 03:13:40
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-10-16 03:13:39 W3SVC1069003075 88.208.252.146 GET / - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 200 0 0 310 319 364
+2021-10-16 03:13:39 W3SVC1069003075 88.208.252.146 GET / - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 200 0 0 310 321 370
+2021-10-16 03:13:39 W3SVC1069003075 88.208.252.146 GET /wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 348 355
+2021-10-16 03:13:39 W3SVC1069003075 88.208.252.146 GET /xmlrpc.php rsd 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 335 354
+2021-10-16 03:13:40 W3SVC1069003075 88.208.252.146 GET / - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 200 0 0 310 321 352
+2021-10-16 03:13:40 W3SVC1069003075 88.208.252.146 GET /blog/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 353 352
+2021-10-16 03:13:40 W3SVC1069003075 88.208.252.146 GET /web/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 352 348
+2021-10-16 03:13:40 W3SVC1069003075 88.208.252.146 GET /wordpress/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 358 350
+2021-10-16 03:13:40 W3SVC1069003075 88.208.252.146 GET /website/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 356 348
+2021-10-16 03:13:40 W3SVC1069003075 88.208.252.146 GET /wp/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 351 346
+2021-10-16 03:13:41 W3SVC1069003075 88.208.252.146 GET /news/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 353 424
+2021-10-16 03:13:41 W3SVC1069003075 88.208.252.146 GET /2020/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 353 424
+2021-10-16 03:13:41 W3SVC1069003075 88.208.252.146 GET /2019/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 353 347
+2021-10-16 03:13:41 W3SVC1069003075 88.208.252.146 GET /shop/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 353 361
+2021-10-16 03:13:41 W3SVC1069003075 88.208.252.146 GET /wp1/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 352 361
+2021-10-16 03:13:41 W3SVC1069003075 88.208.252.146 GET /test/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 353 347
+2021-10-16 03:13:42 W3SVC1069003075 88.208.252.146 GET /wp2/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 352 348
+2021-10-16 03:13:42 W3SVC1069003075 88.208.252.146 GET /site/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 353 368
+2021-10-16 03:13:42 W3SVC1069003075 88.208.252.146 GET /cms/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 352 384
+2021-10-16 03:13:42 W3SVC1069003075 88.208.252.146 GET /sito/wp-includes/wlwmanifest.xml - 80 - 128.199.128.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - - 404 0 2 1406 353 364
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-10-16 03:31:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-10-16 03:31:00 W3SVC1069003075 88.208.252.146 GET / - 80 - 5.34.178.190 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 200 0 0 495 202 223

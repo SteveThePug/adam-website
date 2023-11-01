@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-07-12 01:36:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-07-12 01:36:22 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.222.144.140 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:46.0)+Gecko/20100101+Firefox/46.0 - - 200 0 0 1041 315 302
+2020-07-12 01:36:23 W3SVC1069003075 88.208.252.146 GET /jquery-3.5.1.min.js - 80 - 52.40.169.167 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+WOW64;+Trident/6.0) - - 200 0 0 40068 233 340
+2020-07-12 01:36:23 W3SVC1069003075 88.208.252.146 GET /three.js - 80 - 54.202.74.85 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2228.0+Safari/537.36 - - 200 0 0 347640 251 1113

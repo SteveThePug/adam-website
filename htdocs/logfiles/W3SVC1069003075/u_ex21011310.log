@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-01-13 10:53:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-01-13 10:53:51 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 46.101.23.166 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - - 404 0 2 1425 213 734
+2021-01-13 10:53:53 W3SVC1069003075 88.208.252.146 GET /sitemap.xml - 80 - 46.101.23.166 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.11;+rv:51.0)+Gecko/20100101+Firefox/51.0 - - 404 0 2 1425 192 234

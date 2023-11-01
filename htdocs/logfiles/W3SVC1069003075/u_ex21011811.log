@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-01-18 11:48:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-01-18 11:48:52 W3SVC1069003075 88.208.252.146 GET /wp-login.php - 80 - 18.229.73.207 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/37.0.2062.124+Safari/537.36 - - 404 0 2 1406 234 375
+2021-01-18 11:48:53 W3SVC1069003075 88.208.252.146 GET /wp-login.php - 80 - 18.229.73.207 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/37.0.2062.124+Safari/537.36 - - 404 0 2 1406 234 200
