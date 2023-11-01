@@ -1,5 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-04-07 18:05:51
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2022-04-07 18:05:51 W3SVC1069003075 88.208.252.146 GET /.git/config - 80 - 100.21.18.9 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:7.0.1)+Gecko/20100101+Firefox/7.0.1 - - 404 0 2 1425 207 319

@@ -1,9 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2020-10-27 08:38:07
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2020-10-27 08:38:07 W3SVC1069003075 88.208.252.146 GET / - 80 - 144.217.99.66 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/70.0.3538.102+Safari/537.36 - - 200 0 0 624 325 300
-2020-10-27 08:38:07 W3SVC1069003075 88.208.252.146 GET /stylesheet.css - 80 - 144.217.99.66 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/70.0.3538.102+Safari/537.36 - http://adam-french.co.uk/ 200 0 0 513 330 142
-2020-10-27 08:38:36 W3SVC1069003075 88.208.252.146 GET / - 80 - 144.217.99.66 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - - 200 0 0 624 288 104
-2020-10-27 08:38:36 W3SVC1069003075 88.208.252.146 GET /stylesheet.css - 80 - 144.217.99.66 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - http://adam-french.co.uk/ 200 0 0 513 293 141
-2020-10-27 08:39:07 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 144.217.99.66 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:40.0)+Gecko/20100101+Firefox/40.1 - - 404 0 2 1406 281 105

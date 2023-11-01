@@ -1,9 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-03-20 18:08:30
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2022-03-20 18:08:30 W3SVC1069003075 88.208.252.146 GET /xleet-shell.php - 80 - 51.68.11.215 HTTP/1.1 Mozilla/5.0+(Android+10;+Mobile;+rv:68.0)+Gecko/68.0+Firefox/68.0 - - 404 0 2 1406 150 113
-2022-03-20 18:08:30 W3SVC1069003075 88.208.252.146 GET /admin.php - 80 - 51.68.11.215 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+14_6+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+CriOS/91.0.4472.80+Mobile/15E148+Safari/604.1 - - 404 0 2 1406 220 102
-2022-03-20 18:08:30 W3SVC1069003075 88.208.252.146 GET /xleet.php - 80 - 51.68.11.215 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_4_8+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.1.2+Mobile/15E148+Safari/604.1 - - 404 0 2 1406 209 109
-2022-03-20 18:08:30 W3SVC1069003075 88.208.252.146 GET /jindex.php - 80 - 51.68.11.215 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_6+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1.2+Mobile/15E148+Safari/604.1 - - 404 0 2 1406 217 109
-2022-03-20 18:08:30 W3SVC1069003075 88.208.252.146 GET /takeout.php - 80 - 51.68.11.215 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Moto+G+(4))+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4143.7+Mobile+Safari/537.36+Chrome-Lighthouse - - 404 0 2 1406 222 109

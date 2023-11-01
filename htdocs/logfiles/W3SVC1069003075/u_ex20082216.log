@@ -1,5 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2020-08-22 16:55:09
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2020-08-22 16:55:08 W3SVC1069003075 88.208.252.146 GET / - 80 - 185.143.172.80 HTTP/1.0 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - http://adam-french.co.uk/ 200 0 0 572 298 279

@@ -1,8 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-02-18 11:06:19
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2022-02-18 11:06:19 W3SVC1069003075 88.208.252.146 GET / - 80 - 93.171.140.64 HTTP/1.1 - - - 200 0 0 476 98 266
-2022-02-18 11:06:19 W3SVC1069003075 88.208.252.146 GET /adminer.php - 80 - 93.171.140.64 HTTP/1.1 - - - 404 0 2 1406 109 182
-2022-02-18 11:06:19 W3SVC1069003075 88.208.252.146 GET / - 80 - 93.171.140.64 HTTP/1.1 - - - 200 0 0 476 98 259
-2022-02-18 11:06:20 W3SVC1069003075 88.208.252.146 GET /admin/ - 80 - 93.171.140.64 HTTP/1.1 - - - 404 0 2 1406 104 202

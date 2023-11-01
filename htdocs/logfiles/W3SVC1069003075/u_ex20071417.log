@@ -1,5 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2020-07-14 17:05:24
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2020-07-14 17:05:24 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.243.243.118 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.61+Safari/537.36 TLTSID=C20A6390C5EC10C50017A58E07CDCC74;+TLTUID=C20A6390C5EC10C50017A58E07CDCC74;+TS01a31ce3=01e3266caf3ab2e6faeb2d076f27f7905dcc75612036ea523ebae21dcd5d66dbbb4a696ce67c02cd33f13ba943b9ccb66f65e168b6ac027a571b44c7b82789509d8b82d59d15f2f5b81496a7b36fd45d9e026c2f90;+locale=en_us;+CFID=Z6daz8m8csji4vf0oq3ci5g98l4z8hs91fhm2jiom7sm0ooyy13-98743305;+CFTOKEN=Z6daz8m8csji4vf0oq3ci5g98l4z8hs91fhm2jiom7sm0ooyy13-d9451791098766a7-0D5C82A1-08C3-E324-9F8FB7C922BD1256;+PHPSESSID=e3hj9tlp9l5n05fuug1rhep1t2;+WASOID=116955;+WASUID=00929379b90f34d3b9da7f4481a9fbe7 - 200 0 0 1041 771 201

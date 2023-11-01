@@ -1,9 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2020-11-29 16:19:26
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2020-11-29 16:19:26 W3SVC1069003075 88.208.252.146 GET /.env - 80 - 15.237.40.17 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 235 180
-2020-11-29 16:19:26 W3SVC1069003075 88.208.252.146 GET /vendor/.env - 80 - 15.237.40.17 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 242 13
-2020-11-29 16:19:26 W3SVC1069003075 88.208.252.146 GET /storage/.env - 80 - 15.237.40.17 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 243 11
-2020-11-29 16:19:26 W3SVC1069003075 88.208.252.146 GET /public/.env - 80 - 15.237.40.17 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 242 10
-2020-11-29 16:19:26 W3SVC1069003075 88.208.252.146 POST / - 80 - 15.237.40.17 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 405 0 1 1497 319 14

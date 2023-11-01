@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-01-20 23:40:51
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2022-01-20 23:40:51 W3SVC1069003075 88.208.252.146 GET / - 80 - 194.80.232.79 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/96.0.4664.110+Safari/537.36+OPR/82.0.4227.50 - - 200 0 0 476 465 203
-2022-01-20 23:40:51 W3SVC1069003075 88.208.252.146 GET /favicon.ico - 80 - 194.80.232.79 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/96.0.4664.110+Safari/537.36+OPR/82.0.4227.50 - http://adam-french.co.uk/ 404 0 2 1406 411 17

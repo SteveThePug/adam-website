@@ -1,5 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2020-09-11 09:47:00
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2020-09-11 09:47:00 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 18.130.205.6 HTTP/1.0 bl.uk_lddc_bot/3.4.0-20200518+(+http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html) PSACountry=US;+SC0=1jCO1JVgTvML/h01zobCV8BQrjwb9ir4i3X2xH5pgyMABa8GKn75pwAFrwYqfvmnAAAAAAAAAAAAAAAAAAAAAKLgWJOg9ERus1qwBbd5EocwLjAA - 404 0 2 1425 417 169

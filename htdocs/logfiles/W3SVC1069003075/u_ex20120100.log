@@ -1,5 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2020-12-01 00:21:53
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2020-12-01 00:21:52 W3SVC1069003075 88.208.252.146 GET /var/export/ - 80 - 34.121.255.63 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/55.0.2883.87+Safari/537.36 _myapp_session=RVhKbjBYVCtvdHMxbkRXdk0vamk1bEJIZjR6dHI1SmpIMHhzT1BObFU2MVdZcThMUGdNcFh6VGRRVC9lT2g3UUxMek9QNzJzU1N3TEt6bXhnK1h4M1hFVURFQXBOd1pweTdSOURhaEZKWkFNK2J3SUxRb0VNNWdZR09CVWk0eXpZaGtRUDZaSXVwQnozZi9VL1ZSZE1WaEYyOEVrTmdIOHJaUk5MTnBCbExaeFhrL0hKa1o4SzRSSlhYVlhuNlJULS1ZMWs1Q01SYkdCVWJSSkpYOGdZL1ZRPT0%3D--a7c8421883530c66c0624d64c46b406ede8838aa - 404 0 2 1406 556 414

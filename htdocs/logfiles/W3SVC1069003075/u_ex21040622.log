@@ -1,8 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2021-04-06 22:19:17
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2021-04-06 22:19:16 W3SVC1069003075 88.208.252.146 GET /adminer.php - 80 - 178.20.157.98 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - - 404 0 2 1406 296 185
-2021-04-06 22:19:16 W3SVC1069003075 88.208.252.146 GET /Adminer.php - 80 - 178.20.157.98 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - - 404 0 2 1406 296 41
-2021-04-06 22:19:16 W3SVC1069003075 88.208.252.146 GET /adm.php - 80 - 178.20.157.98 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - - 404 0 2 1406 292 41
-2021-04-06 22:19:16 W3SVC1069003075 88.208.252.146 GET /sql.php - 80 - 178.20.157.98 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - - 404 0 2 1406 292 41

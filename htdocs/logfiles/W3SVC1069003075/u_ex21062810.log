@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2021-06-28 10:51:40
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2021-06-28 10:51:40 W3SVC1069003075 88.208.252.146 GET /wp-admin/install.php step=1 80 - 78.46.210.120 HTTP/1.1 Apache/2.4.34+(Ubuntu)+OpenSSL/1.1.1+(internal+dummy+connection) - - 404 0 2 1425 343 211
-2021-06-28 10:59:36 W3SVC1069003075 88.208.252.146 GET /ads.txt - 80 - 93.158.91.204 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.246 - - 404 0 2 1425 233 36

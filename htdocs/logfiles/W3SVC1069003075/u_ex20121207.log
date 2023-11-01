@@ -1,5 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2020-12-12 07:34:51
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2020-12-12 07:34:50 W3SVC1069003075 88.208.252.146 GET / - 80 - 138.128.4.92 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+x86_64;+us;+rv:1.9.1.19)+Gecko/20110430+shadowfox/7.0+(like+Firefox/7.0 - - 200 0 0 624 472 261

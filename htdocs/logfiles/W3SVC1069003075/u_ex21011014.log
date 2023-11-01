@@ -1,8 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2021-01-10 14:23:58
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2021-01-10 14:23:57 W3SVC1069003075 88.208.252.146 HEAD / - 80 - 13.58.182.141 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - - 200 0 0 248 222 252
-2021-01-10 14:23:57 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 13.58.182.141 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - - 404 0 2 1406 263 103
-2021-01-10 14:23:57 W3SVC1069003075 88.208.252.146 GET / - 80 - 13.58.182.141 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - - 200 0 0 624 347 103
-2021-01-10 14:23:57 W3SVC1069003075 88.208.252.146 GET /stylesheet.css - 80 - 13.58.182.141 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - - 200 0 0 513 267 103

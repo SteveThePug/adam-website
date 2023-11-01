@@ -1,8 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2021-12-09 10:48:38
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2021-12-09 10:48:37 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 192.71.126.175 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.114+Safari/537.36 - - 404 0 2 1425 299 201
-2021-12-09 10:48:37 W3SVC1069003075 88.208.252.146 GET /humans.txt - 80 - 192.71.23.211 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.114+Safari/537.36 - - 404 0 2 1425 299 40
-2021-12-09 10:48:37 W3SVC1069003075 88.208.252.146 GET /ads.txt - 80 - 192.36.52.37 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.114+Safari/537.36 - - 404 0 2 1425 296 40
-2021-12-09 10:48:38 W3SVC1069003075 88.208.252.146 GET / - 80 - 192.71.36.158 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.114+Safari/537.36 - - 200 0 0 495 310 39

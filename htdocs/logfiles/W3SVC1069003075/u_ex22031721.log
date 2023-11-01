@@ -1,8 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-03-17 21:32:27
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2022-03-17 21:32:26 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 34.79.79.129 HTTP/1.1 DnBCrawler-Analytics - - 404 0 2 1406 156 155
-2022-03-17 21:32:26 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 35.205.110.35 HTTP/1.1 DnBCrawler-Analytics - - 404 0 2 1406 160 154
-2022-03-17 21:32:26 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.79.79.129 HTTP/1.1 DnBCrawler-Analytics - - 200 0 0 476 109 13
-2022-03-17 21:32:26 W3SVC1069003075 88.208.252.146 GET / - 80 - 35.205.110.35 HTTP/1.1 DnBCrawler-Analytics - - 200 0 0 476 113 11

@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-02-27 02:27:50
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2022-02-27 02:27:49 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 65.108.64.210 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - - 404 0 2 1406 165 119
-2022-02-27 02:27:54 W3SVC1069003075 88.208.252.146 GET / - 80 - 65.108.64.210 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - - 200 0 0 476 368 38

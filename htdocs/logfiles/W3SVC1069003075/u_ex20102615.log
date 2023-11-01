@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2020-10-26 15:07:16
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2020-10-26 15:07:16 W3SVC1069003075 88.208.252.146 GET /wp-content/plugins/superstorefinder-wp/js/docs.js - 80 - 151.80.47.30 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_5)+AppleWeb++++++++++++Kit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 __test=f00d4c69f05008f318b56078dce786de - 404 0 2 1406 357 216
-2020-10-26 15:07:17 W3SVC1069003075 88.208.252.146 GET /wp-content/plugins/superlogoshowcase-wp/js/docs.js - 80 - 151.80.47.30 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_5)+AppleWeb++++++++++++Kit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 __test=f00d4c69f05008f318b56078dce786de - 404 0 2 1406 358 27
-2020-10-26 15:07:18 W3SVC1069003075 88.208.252.146 GET /wp-content/plugins/super-interactive-maps/js/docs.js - 80 - 151.80.47.30 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_5)+AppleWeb++++++++++++Kit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 __test=f00d4c69f05008f318b56078dce786de - 404 0 2 1406 360 31

@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2020-09-30 00:59:42
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2020-09-30 00:59:42 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 185.191.171.10 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/6~bl;++http://www.semrush.com/bot.html) - - 404 0 2 1425 205 206
-2020-09-30 00:59:42 W3SVC1069003075 88.208.252.146 GET / - 80 - 185.191.171.34 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/6~bl;++http://www.semrush.com/bot.html) - - 200 0 0 643 291 81

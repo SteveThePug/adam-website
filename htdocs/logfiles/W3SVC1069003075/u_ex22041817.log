@@ -1,5 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2022-04-18 17:45:45
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2022-04-18 17:45:44 W3SVC1069003075 88.208.252.146 POST /images.php - 80 - 5.45.83.114 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+it;+rv:2.0b4)+Gecko/20100818 - - 404 0 2 1406 271 144

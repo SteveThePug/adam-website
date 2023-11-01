@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2021-05-28 22:38:59
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2021-05-28 22:38:58 W3SVC1069003075 88.208.252.146 HEAD / - 80 - 46.219.204.79 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2376.69+Safari/537.36 - http://a1homeprotection.co.uk 200 0 0 248 482 293
-2021-05-28 22:38:58 W3SVC1069003075 88.208.252.146 GET / - 80 - 46.219.204.79 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2376.69+Safari/537.36 - http://a1homeprotection.co.uk 200 0 0 553 481 70

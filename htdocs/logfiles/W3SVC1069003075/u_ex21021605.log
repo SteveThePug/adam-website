@@ -1,9 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2021-02-16 05:26:23
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2021-02-16 05:26:22 W3SVC1069003075 88.208.252.146 GET / - 80 - 54.36.149.68 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - - 200 0 0 624 172 193
-2021-02-16 05:36:34 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 192.71.38.71 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+SM-G892A+Build/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/60.0.3112.107+Mobile+Safari/537.36 - - 404 0 2 1425 261 59
-2021-02-16 05:36:34 W3SVC1069003075 88.208.252.146 GET /humans.txt - 80 - 192.36.71.133 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+SM-G892A+Build/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/60.0.3112.107+Mobile+Safari/537.36 - - 404 0 2 1425 261 36
-2021-02-16 05:36:34 W3SVC1069003075 88.208.252.146 GET /ads.txt - 80 - 192.71.224.240 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+SM-G892A+Build/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/60.0.3112.107+Mobile+Safari/537.36 - - 404 0 2 1425 258 41
-2021-02-16 05:36:35 W3SVC1069003075 88.208.252.146 GET / - 80 - 192.36.53.165 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+SM-G892A+Build/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/60.0.3112.107+Mobile+Safari/537.36 - - 200 0 0 643 251 39

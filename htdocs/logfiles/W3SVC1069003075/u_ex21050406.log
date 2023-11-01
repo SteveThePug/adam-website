@@ -1,8 +1,0 @@
-#Software: Microsoft Internet Information Services 10.0
-#Version: 1.0
-#Date: 2021-05-04 06:16:45
-#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
-2021-05-04 06:16:44 W3SVC1069003075 88.208.252.146 GET / - 80 - 109.70.100.41 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - https://downloadprotorrents.info/fitnes-balans-1-2012-2013-n-baxireva-102263-fileto 200 0 0 572 355 256
-2021-05-04 06:16:45 W3SVC1069003075 88.208.252.146 GET / - 80 - 185.220.101.193 HTTP/1.0 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - https://thetorrents.website/lil-keke-heart-of-a-hustla-2012-m4a-vbr-3772156-download 200 0 0 572 370 27
-2021-05-04 06:16:45 W3SVC1069003075 88.208.252.146 GET / - 80 - 185.220.101.193 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - https://topmusic.today/?mp3m=саша+артишок 200 0 0 572 337 24
-2021-05-04 06:16:46 W3SVC1069003075 88.208.252.146 GET / - 80 - 104.244.77.101 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.87+Safari/537.36+OPR/54.0.2952.51 - https://x4mp3.info/?kp=h.o.s.h_feat_ost 200 0 0 572 340 26
