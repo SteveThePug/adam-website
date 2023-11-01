@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-12-14 02:17:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-12-14 02:17:19 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.86.35.31 HTTP/1.1 Expanse+indexes+the+network+perimeters+of+our+customers.+If+you+have+any+questions+or+concerns,+please+reach+out+to:+scaninfo@expanseinc.com - - 200 0 0 310 197 242
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-12-14 02:43:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-12-14 02:43:56 W3SVC1069003075 88.208.252.146 GET / - 80 - 52.88.124.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 476 184 342
+2021-12-14 02:52:44 W3SVC1069003075 88.208.252.146 GET /favicon.ico - 80 - 52.35.42.73 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 404 0 2 1406 195 178
+2021-12-14 02:52:47 W3SVC1069003075 88.208.252.146 GET / - 80 - 52.35.42.73 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 476 184 181

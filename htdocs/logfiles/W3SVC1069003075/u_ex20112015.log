@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-20 15:42:49
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-11-20 15:42:48 W3SVC1069003075 88.208.252.146 GET /.env - 80 - 217.182.15.150 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 235 229
+2020-11-20 15:43:24 W3SVC1069003075 88.208.252.146 POST / - 80 - 217.182.15.150 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 405 0 1 1497 321 25
+2020-11-20 15:43:56 W3SVC1069003075 88.208.252.146 HEAD / - 80 - 213.248.241.201 HTTP/1.1 https://www.nominet.uk/privacy-notice - - 200 0 0 314 158 14
+2020-11-20 15:43:56 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 213.248.241.201 HTTP/1.1 https://www.nominet.uk/privacy-notice - - 404 0 2 1406 172 7
+2020-11-20 15:43:56 W3SVC1069003075 88.208.252.146 GET / - 80 - 213.248.241.201 HTTP/1.1 https://www.nominet.uk/privacy-notice - - 200 0 0 624 162 40
+2020-11-20 15:45:00 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 54.36.148.116 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/6.1;++http://ahrefs.com/robot/) - - 404 0 2 1406 182 24
+2020-11-20 15:45:01 W3SVC1069003075 88.208.252.146 GET / - 80 - 54.36.148.239 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - - 200 0 0 624 172 24

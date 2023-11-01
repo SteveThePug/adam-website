@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-05-05 14:59:32
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2022-05-05 14:59:31 W3SVC1069003075 88.208.252.146 GET /.env - 80 - 179.43.156.176 HTTP/1.1 Mozilla/5.0+(Linux;+U;+Android+4.4.2;+en-US;+HM+NOTE+1W+Build/KOT49H)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+UCBrowser/11.0.5.850+U3/0.8.0+Mobile+Safari/534.30 - - 404 0 2 1406 301 146
+2022-05-05 14:59:31 W3SVC1069003075 88.208.252.146 POST / - 80 - 179.43.156.176 HTTP/1.1 Mozilla/5.0+(Linux;+U;+Android+4.4.2;+en-US;+HM+NOTE+1W+Build/KOT49H)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+UCBrowser/11.0.5.850+U3/0.8.0+Mobile+Safari/534.30 - - 405 0 1 1497 387 25
+2022-05-05 14:59:33 W3SVC1069003075 88.208.252.146 GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 179.43.156.176 HTTP/1.1 python-requests/2.27.1 - - 404 0 2 1406 237 28

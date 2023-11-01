@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-03-27 01:49:08
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2022-03-27 01:49:07 W3SVC1069003075 88.208.252.146 GET / - 80 - 13.71.82.130 HTTP/1.1 python-requests/2.6.0+CPython/2.7.5+Linux/3.10.0-1160.53.1.el7.x86_64 - - 200 0 0 476 195 234
+2022-03-27 01:49:09 W3SVC1069003075 88.208.252.146 GET /.env - 80 - 13.71.82.130 HTTP/1.1 python-requests/2.6.0+CPython/2.7.5+Linux/3.10.0-1160.53.1.el7.x86_64 - - 404 0 2 1406 199 152

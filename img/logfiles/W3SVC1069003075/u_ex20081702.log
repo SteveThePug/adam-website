@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-08-17 02:10:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-08-17 02:10:48 W3SVC1069003075 88.208.252.146 GET / fbclid=IwAR0-V-n36od6HFeXLiYEVut45Jl9N05GH5U8MUhHHsqK4o-q9ZLoQvFSLHc 80 - 66.220.149.5 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.125+Safari/537.36 - - 200 0 0 624 494 286
+2020-08-17 02:10:48 W3SVC1069003075 88.208.252.146 GET /stylesheet.css - 80 - 66.220.149.5 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.125+Safari/537.36 - - 200 0 0 513 303 139
+2020-08-17 02:10:50 W3SVC1069003075 88.208.252.146 GET /favicon.ico - 80 - 66.220.149.26 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.125+Safari/537.36 - - 404 0 2 1406 321 139

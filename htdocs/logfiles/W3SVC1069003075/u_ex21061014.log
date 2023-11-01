@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-06-10 14:22:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-06-10 14:22:21 W3SVC1069003075 88.208.252.146 GET /js/mage/cookies.js - 80 - 210.86.239.43 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 - adam-french.co.uk 404 0 2 1406 232 380
+2021-06-10 14:22:23 W3SVC1069003075 88.208.252.146 GET /js/mage/cookies.js - 80 - 210.86.239.43 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 - adam-french.co.uk 404 0 2 1406 232 747
+2021-06-10 14:22:24 W3SVC1069003075 88.208.252.146 GET /js/mage/cookies.js - 80 - 210.86.239.43 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 - adam-french.co.uk 404 0 2 1406 232 734

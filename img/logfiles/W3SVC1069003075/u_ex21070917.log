@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-07-09 17:31:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-07-09 17:31:11 W3SVC1069003075 88.208.252.146 GET /humans.txt - 80 - 93.158.91.196 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.114+Safari/537.36 - - 404 0 2 1425 299 238

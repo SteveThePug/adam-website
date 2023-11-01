@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-30 09:09:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-03-30 09:09:43 W3SVC1069003075 88.208.252.146 GET / - 80 - 134.209.118.172 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.88+Safari/537.36 - - 200 0 0 624 303 238
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-30 09:46:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-03-30 09:46:52 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 34.201.8.67 HTTP/1.1 Mozilla/5.0 - - 404 0 2 1406 204 231
+2021-03-30 09:46:52 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.201.8.67 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/602.1+(KHTML,+like+Gecko)+splash+Version/10.0+Safari/602.1 - - 304 0 0 166 470 84

@@ -1,0 +1,143 @@
+/* Whole document */
+@import url("https://fonts.cdnfonts.com/css/ocr-a-extended");
+body {
+  font-family: "OCR A Extended";
+  font-size: 2vh;
+  color: aquamarine;
+  text-underline-offset: 0.4rem;
+  text-align: center;
+  background-color: indigo;
+  width: 100vw;
+  height: 100vh;
+  margin: 0px;
+}
+a,
+a:visited,
+a:hover,
+a:active {
+  color: inherit;
+  text-decoration: none;
+}
+img {
+  width: 100%;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+/* grid */
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    "sidebar sidebar header header header"
+    "sidebar sidebar main main main"
+    "sidebar sidebar main main main"
+    "sidebar sidebar main main main"
+    "sidebar sidebar main main main";
+  height: 98vh;
+  padding: 1vh;
+  gap: 1vh;
+  overflow: hidden;
+}
+#binomial-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  border: 2px solid orange;
+  height: 100%;
+  width: 100%;
+}
+
+/* Header */
+.header {
+  border: 1px dashed orange;
+  grid-area: header;
+  background-image: url("/img/background.png");
+}
+
+/* Sidebar */
+.sidebar {
+  border: 1px dashed orange;
+  grid-area: sidebar;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  flex-direction: column;
+  background-color: black;
+  height: 100%;
+  overflow: hidden;
+}
+.sidebar table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.sidebar img {
+  border-bottom: 1px dashed orange;
+}
+.sidebar th {
+  border: 1px solid #f3b21a;
+  width: 20%;
+  text-align: center;
+}
+.sidebar td {
+  border: 1px solid #f3b21a;
+  text-align: center;
+}
+.sidebar tr {
+  border: 1px dashed #f3b21a;
+  width: 100%;
+  height: 5vh;
+}
+.sidebar span {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 40vh;
+}
+
+/* Main */
+.main {
+  grid-area: main;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+.main table {
+  border-bottom: 1px dashed orange;
+}
+.main a > div > table {
+  border-bottom: 1px dashed orange;
+  width: 100%;
+}
+.main a > div > table > tr {
+  width: 100%;
+}
+.main th {
+  text-align: left;
+}
+.main td {
+  text-align: right;
+}
+#asciiContainer {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+/* Footer */
+.footer {
+  border: 2px dashed orange;
+  height: 100%;
+  grid-area: footer;
+  background-color: black;
+  display: inline-flex;
+  justify-content: space-around;
+}
+
+.bordered {
+  border: 1px dashed orange;
+}

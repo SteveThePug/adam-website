@@ -1,0 +1,69 @@
+<body>
+  <audio
+    controls
+    style="position: absolute; right: 10px; top: 10px"
+    src="http://82.69.124.224:8000/stream"
+  ></audio>
+  <svg viewbox="0 0 1000 1000" id="GoodTimeOrbit">
+    <path id="curve" d="M200 500 A1 1 0 0 0, 800 500" fill="none" />
+    <path id="curve2" d="M800 500 A1 1 0 0 0, 200 500" fill="none" />
+    <text id="GoodTime" width="10" fill="snow">
+      <textPath alignment-baseline="top" xlink:href="#curve">:)</textPath>
+      <textPath alignment-baseline="top" xlink:href="#curve2">:(</textPath>
+    </text>
+  </svg>
+  <a href="index.html">
+    <img id="stp" src="/assets/stp-2e168854.png" />
+  </a>
+</body>
+
+<style>
+  @import url("https://fonts.cdnfonts.com/css/ocr-a-bt");
+  body {
+    font-family: "OCR-A BT";
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url("/assets/edd-7c588f69.gif");
+    color: snow;
+    overflow: hidden;
+  }
+  #GoodTimeOrbit {
+    position: absolute;
+    top: 5vh;
+    width: 90vh;
+    height: 90vh;
+    text-align: center;
+    animation: rotate 10s linear infinite;
+  }
+  #GoodTime {
+    color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  a,
+  a:hover,
+  a:focus,
+  a:active {
+    text-decoration: none;
+    color: inherit;
+  }
+  #stp {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    border-radius: 100%;
+    border-style: dashed;
+    translate: -50% -50%;
+    width: 23%;
+    animation: rotate 20s linear infinite;
+  }
+  @keyframes rotate {
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+</style>

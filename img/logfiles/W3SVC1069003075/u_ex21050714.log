@@ -1,0 +1,22 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-07 14:15:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-05-07 14:15:24 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.215.69.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/28.0.1467.0+Safari/537.36 - - 403 503 5 1394 201 302
+2021-05-07 14:15:25 W3SVC1069003075 88.208.252.146 GET /wp-login.php - 80 - 34.215.69.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/28.0.1467.0+Safari/537.36 - - 403 503 5 1394 213 151
+2021-05-07 14:15:25 W3SVC1069003075 88.208.252.146 GET /wordpress/wp-login.php - 80 - 34.215.69.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/28.0.1467.0+Safari/537.36 - - 403 503 5 1394 223 153
+2021-05-07 14:15:26 W3SVC1069003075 88.208.252.146 GET /blog/wp-login.php - 80 - 34.215.69.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/28.0.1467.0+Safari/537.36 - - 403 503 5 1394 218 155
+2021-05-07 14:15:26 W3SVC1069003075 88.208.252.146 GET /wp/wp-login.php - 80 - 34.215.69.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/28.0.1467.0+Safari/537.36 - - 403 503 5 1394 216 150
+2021-05-07 14:16:11 W3SVC1069003075 88.208.252.146 GET /wp-login.php - 80 - 164.68.121.247 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - - 404 0 2 1425 187 28
+2021-05-07 14:16:14 W3SVC1069003075 88.208.252.146 GET /feed - 80 - 18.203.253.197 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:81.0)+Gecko/20100101+Firefox/81.0 - - 404 0 2 1425 185 14
+2021-05-07 14:16:14 W3SVC1069003075 88.208.252.146 GET /rss.xml - 80 - 18.203.253.197 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:81.0)+Gecko/20100101+Firefox/81.0 - - 404 0 2 1425 188 14
+2021-05-07 14:16:14 W3SVC1069003075 88.208.252.146 GET /feeds - 80 - 18.203.253.197 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:81.0)+Gecko/20100101+Firefox/81.0 - - 404 0 2 1425 186 14
+2021-05-07 14:16:14 W3SVC1069003075 88.208.252.146 GET /index.rdf - 80 - 18.203.253.197 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:81.0)+Gecko/20100101+Firefox/81.0 - - 404 0 2 1425 190 15
+2021-05-07 14:16:14 W3SVC1069003075 88.208.252.146 GET / format=feed&type=rss 80 - 18.203.253.197 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:81.0)+Gecko/20100101+Firefox/81.0 - - 200 0 0 643 202 18
+2021-05-07 14:16:14 W3SVC1069003075 88.208.252.146 GET /index.rss - 80 - 18.203.253.197 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:81.0)+Gecko/20100101+Firefox/81.0 - - 404 0 2 1425 190 16
+2021-05-07 14:16:14 W3SVC1069003075 88.208.252.146 GET /index.xml - 80 - 18.203.253.197 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:81.0)+Gecko/20100101+Firefox/81.0 - - 404 0 2 1425 190 15
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-07 14:57:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-05-07 14:57:23 W3SVC1069003075 88.208.252.146 GET /.env - 80 - 34.65.105.52 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:77.0)+Gecko/20100101+Firefox/77.0 - - 404 0 2 1406 212 177

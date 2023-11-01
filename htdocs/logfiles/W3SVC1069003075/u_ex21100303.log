@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-10-03 03:07:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-10-03 03:07:53 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 5.9.155.37 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - - 404 0 2 1406 165 2233
+2021-10-03 03:07:59 W3SVC1069003075 88.208.252.146 GET / - 80 - 5.9.155.37 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - - 200 0 0 624 368 774
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-10-03 03:38:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-10-03 03:38:19 W3SVC1069003075 88.208.252.146 GET /sites/all/libraries/elfinder/connectors/php/connector.php - 80 - 23.228.109.147 HTTP/1.1 ALittle+Client - - 404 0 2 1406 216 709

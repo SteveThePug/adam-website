@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-09-11 11:19:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-09-11 11:19:58 W3SVC1069003075 88.208.252.146 GET / - 80 - 18.130.205.6 HTTP/1.0 bl.uk_lddc_bot/3.4.0-20200518+(+http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html) PHPSESSID=7mclhdfha1dpjk734lurvqm610;+PSACountry=US;+SC0=cUVSC79YkaTLa7yotF0ZKefJ7ZbqrEXEYJKN4Mgo+QcABa8HCs/FxwAFrwcKz8XHAAAAAAAAAAAAAAAAAAAAAP+iqzbOF01zr5gblbXL/1swLjAA;+_ec_session=93048ae89488cd9fe701dbe64ba29bae;+_revolve_session=08052d9eb894c70403de6045dc2b591e http://www.adam-french.co.uk/ 200 0 0 572 582 556

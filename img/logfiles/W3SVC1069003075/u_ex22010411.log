@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-01-04 11:40:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2022-01-04 11:40:14 W3SVC1069003075 88.208.252.146 GET /README.txt - 80 - 40.78.87.199 HTTP/1.1 python-requests/2.26.0 - - 404 0 2 1406 158 426
+2022-01-04 11:40:14 W3SVC1069003075 88.208.252.146 GET /license.txt - 80 - 40.78.87.199 HTTP/1.1 python-requests/2.26.0 - - 404 0 2 1406 159 438

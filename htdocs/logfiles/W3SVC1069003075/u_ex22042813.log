@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-04-28 13:33:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2022-04-28 13:33:51 W3SVC1069003075 88.208.252.146 GET /style.php sig=rename 80 - 167.99.236.200 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.135+Safari/537.36 - - 404 0 2 1406 205 205
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-04-28 13:56:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2022-04-28 13:56:33 W3SVC1069003075 88.208.252.146 GET /.env - 80 - 45.86.202.188 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:77.0)+Gecko/20100101+Firefox/77.0 - - 404 0 2 1406 212 106
+2022-04-28 13:56:35 W3SVC1069003075 88.208.252.146 GET /wp-content/ - 80 - 45.86.202.188 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:77.0)+Gecko/20100101+Firefox/77.0 - - 404 0 2 1406 219 16

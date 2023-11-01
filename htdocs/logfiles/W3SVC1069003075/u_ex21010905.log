@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-01-09 05:45:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-01-09 05:45:48 W3SVC1069003075 88.208.252.146 GET /wp-login.php - 80 - 13.124.222.242 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.137+Safari/4E423F - - 404 0 2 1406 218 429
+2021-01-09 05:45:48 W3SVC1069003075 88.208.252.146 GET /wp-login.php - 80 - 13.124.222.242 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.137+Safari/4E423F - - 404 0 2 1406 218 269
+2021-01-09 05:46:18 W3SVC1069003075 88.208.252.146 GET /phpMyAdmin/index.php - 80 - 13.124.222.242 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.137+Safari/4E423F - - 404 0 2 1406 226 267
+2021-01-09 05:46:19 W3SVC1069003075 88.208.252.146 GET /pma/index.php - 80 - 13.124.222.242 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.137+Safari/4E423F - - 404 0 2 1406 219 268
+2021-01-09 05:46:19 W3SVC1069003075 88.208.252.146 GET /phpmyadmin/index.php - 80 - 13.124.222.242 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.137+Safari/4E423F - - 404 0 2 1406 226 270
+2021-01-09 05:46:20 W3SVC1069003075 88.208.252.146 GET /phpmyadmin1/index.php - 80 - 13.124.222.242 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.137+Safari/4E423F - - 404 0 2 1406 227 269

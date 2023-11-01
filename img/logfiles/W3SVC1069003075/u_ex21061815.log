@@ -1,0 +1,15 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-06-18 15:03:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-06-18 15:03:18 W3SVC1069003075 88.208.252.146 GET /sxd/backup/ - 80 - 31.13.191.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:17.0)+Gecko/17.0+Firefox/17.0 - - 404 0 2 1406 206 737
+2021-06-18 15:11:49 W3SVC1069003075 88.208.252.146 GET / - 80 - 35.183.60.188 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/28.0.1468.0+Safari/537.36 - - 403 503 5 1394 201 82
+2021-06-18 15:11:49 W3SVC1069003075 88.208.252.146 GET /wp-login.php - 80 - 35.183.60.188 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/28.0.1468.0+Safari/537.36 - - 403 503 5 1394 213 115
+2021-06-18 15:11:49 W3SVC1069003075 88.208.252.146 GET /wordpress/wp-login.php - 80 - 35.183.60.188 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/28.0.1468.0+Safari/537.36 - - 403 503 5 1394 223 89
+2021-06-18 15:11:49 W3SVC1069003075 88.208.252.146 GET /blog/wp-login.php - 80 - 35.183.60.188 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/28.0.1468.0+Safari/537.36 - - 403 503 5 1394 218 91
+2021-06-18 15:11:49 W3SVC1069003075 88.208.252.146 GET /wp/wp-login.php - 80 - 35.183.60.188 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/28.0.1468.0+Safari/537.36 - - 403 503 5 1394 216 98
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-06-18 15:32:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-06-18 15:32:26 W3SVC1069003075 88.208.252.146 GET /wp-login.php - 80 - 103.132.124.120 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - - 404 0 2 1425 187 421

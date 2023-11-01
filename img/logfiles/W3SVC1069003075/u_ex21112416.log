@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-11-24 16:04:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-11-24 16:04:34 W3SVC1069003075 88.208.252.146 POST /blog/xmlrpc.php - 80 - 193.56.29.48 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10.6;+fr;+rv:1.9.2.8)+Gecko/20100722+Firefox/3.6.8 wordpress_test_cookie=WP+Cookie+check - 403 503 5 1394 655 232
+2021-11-24 16:04:34 W3SVC1069003075 88.208.252.146 POST /xmlrpc.php - 80 - 193.56.29.48 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10.6;+fr;+rv:1.9.2.8)+Gecko/20100722+Firefox/3.6.8 wordpress_test_cookie=WP+Cookie+check - 403 503 5 1394 650 236
+2021-11-24 16:10:30 W3SVC1069003075 88.208.252.146 HEAD /xmlrpc.php - 80 - 137.184.26.236 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/70.0.3538.110+Safari/537.36 - - 404 0 2 161 252 90
+2021-11-24 16:10:30 W3SVC1069003075 88.208.252.146 HEAD /wordpress/xmlrpc.php - 80 - 137.184.26.236 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:71.0)+Gecko/20100101+Firefox/71.0 - - 404 0 2 161 225 94
+2021-11-24 16:10:30 W3SVC1069003075 88.208.252.146 HEAD /wp/xmlrpc.php - 80 - 137.184.26.236 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:74.0)+Gecko/20100101+Firefox/74.0 - - 404 0 2 161 218 80
+2021-11-24 16:10:32 W3SVC1069003075 88.208.252.146 HEAD /blog/xmlrpc.php - 80 - 137.184.26.236 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:73.0)+Gecko/20100101+Firefox/73.0 - - 404 0 2 161 220 100
+2021-11-24 16:10:32 W3SVC1069003075 88.208.252.146 HEAD /new/xmlrpc.php - 80 - 137.184.26.236 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:79.0)+Gecko/20100101+Firefox/79.0 - - 404 0 2 161 207 83
+2021-11-24 16:10:32 W3SVC1069003075 88.208.252.146 HEAD /old/xmlrpc.php - 80 - 137.184.26.236 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:75.0)+Gecko/20100101+Firefox/75.0 - - 404 0 2 161 219 77
+2021-11-24 16:10:32 W3SVC1069003075 88.208.252.146 HEAD /backup/xmlrpc.php - 80 - 137.184.26.236 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.105+Safari/537.36 - - 404 0 2 161 247 82
+2021-11-24 16:10:33 W3SVC1069003075 88.208.252.146 HEAD /oldsite/xmlrpc.php - 80 - 137.184.26.236 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.105+Safari/537.36 - - 404 0 2 161 250 89
+2021-11-24 16:10:33 W3SVC1069003075 88.208.252.146 HEAD /site/xmlrpc.php - 80 - 137.184.26.236 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.105+Safari/537.36+OPR/70.0.3728.95 - - 404 0 2 161 280 79
+2021-11-24 16:10:34 W3SVC1069003075 88.208.252.146 HEAD /back/xmlrpc.php - 80 - 137.184.26.236 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/80.0.3987.149+Safari/537.36 - - 404 0 2 161 256 77
+2021-11-24 16:10:34 W3SVC1069003075 88.208.252.146 HEAD /web/xmlrpc.php - 80 - 137.184.26.236 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.105+Safari/537.36 - - 404 0 2 161 244 78
+2021-11-24 16:22:31 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.136.31.2 HTTP/1.1 - - - 200 0 0 329 121 409

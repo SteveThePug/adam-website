@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-08-24 18:09:18
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-08-24 18:09:17 W3SVC1069003075 88.208.252.146 GET /wp-config.php - 80 - 45.135.187.161 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:17.0)+Gecko/17.0+Firefox/17.0 - - 404 0 2 1406 208 211
+2021-08-24 18:09:18 W3SVC1069003075 88.208.252.146 GET /configuration.php - 80 - 45.135.187.161 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:17.0)+Gecko/17.0+Firefox/17.0 - - 404 0 2 1406 212 31
+2021-08-24 18:09:19 W3SVC1069003075 88.208.252.146 GET /sites/default/settings.php - 80 - 45.135.187.161 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:17.0)+Gecko/17.0+Firefox/17.0 - - 404 0 2 1406 221 32
+2021-08-24 18:09:20 W3SVC1069003075 88.208.252.146 GET /app/etc/local.xml - 80 - 45.135.187.161 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:17.0)+Gecko/17.0+Firefox/17.0 - - 404 0 2 1406 212 31
+2021-08-24 18:09:20 W3SVC1069003075 88.208.252.146 GET /config.php - 80 - 45.135.187.161 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:17.0)+Gecko/17.0+Firefox/17.0 - - 404 0 2 1406 205 31
+2021-08-24 18:09:24 W3SVC1069003075 88.208.252.146 GET /mysql.php - 80 - 45.135.187.161 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:17.0)+Gecko/17.0+Firefox/17.0 - - 404 0 2 1406 204 37

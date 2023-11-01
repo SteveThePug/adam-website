@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-09 11:38:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-11-09 11:38:18 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 173.252.87.11 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - - 404 0 2 1425 227 351
+2020-11-09 11:47:34 W3SVC1069003075 88.208.252.146 GET / fbclid=IwAR0BEMTO6_yuG0YF0ONA2LHNfxpIJqfoktTN_YFFF3FgRFzJ5aQ89lS6zEU 80 - 173.252.127.27 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36 - - 200 0 0 624 504 95
+2020-11-09 11:47:34 W3SVC1069003075 88.208.252.146 GET /stylesheet.css - 80 - 173.252.127.27 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36 - http://adam-french.co.uk/?fbclid=IwAR0BEMTO6_yuG0YF0ONA2LHNfxpIJqfoktTN_YFFF3FgRFzJ5aQ89lS6zEU 200 0 0 513 407 94
+2020-11-09 11:47:37 W3SVC1069003075 88.208.252.146 GET /favicon.ico - 80 - 173.252.127.27 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36 - http://adam-french.co.uk/?fbclid=IwAR0BEMTO6_yuG0YF0ONA2LHNfxpIJqfoktTN_YFFF3FgRFzJ5aQ89lS6zEU 404 0 2 1406 436 95

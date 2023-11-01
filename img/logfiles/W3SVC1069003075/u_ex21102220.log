@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-10-22 20:42:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-10-22 20:42:33 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 82.165.224.9 HTTP/1.1 IonCrawl+(https://www.ionos.de/terms-gtc/faq-crawler-en/) - - 404 0 2 1406 179 191
+2021-10-22 20:44:52 W3SVC1069003075 88.208.252.146 GET /sitemap.xml - 80 - 82.165.224.41 HTTP/1.1 IonCrawl+(https://www.ionos.de/terms-gtc/faq-crawler-en/) - - 404 0 2 1406 180 19
+2021-10-22 20:44:53 W3SVC1069003075 88.208.252.146 GET / - 80 - 82.165.224.41 HTTP/1.1 IonCrawl+(https://www.ionos.de/terms-gtc/faq-crawler-en/) - - 200 0 0 476 169 21
+2021-10-22 20:44:54 W3SVC1069003075 88.208.252.146 GET /wp-admin/admin-ajax.php - 80 - 82.165.224.41 HTTP/1.1 IonCrawl+(https://www.ionos.de/terms-gtc/faq-crawler-en/) - - 404 0 2 1406 192 19

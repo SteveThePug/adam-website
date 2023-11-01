@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-10-17 03:15:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-10-17 03:15:36 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 212.227.216.154 HTTP/1.1 IonCrawl - - 404 0 2 1406 130 159
+2020-10-17 03:19:09 W3SVC1069003075 88.208.252.146 GET /sitemap.xml - 80 - 212.227.216.146 HTTP/1.1 IonCrawl - - 404 0 2 1406 131 23
+2020-10-17 03:19:10 W3SVC1069003075 88.208.252.146 GET / - 80 - 212.227.216.146 HTTP/1.1 IonCrawl - - 200 0 0 624 120 21
+2020-10-17 03:19:12 W3SVC1069003075 88.208.252.146 GET /wp-admin/admin-ajax.php - 80 - 212.227.216.146 HTTP/1.1 IonCrawl - - 404 0 2 1406 143 19

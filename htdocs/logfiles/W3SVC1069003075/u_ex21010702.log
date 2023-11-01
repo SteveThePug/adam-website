@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-01-07 02:19:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-01-07 02:19:46 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 192.71.30.89 HTTP/1.1 Go-http-client/1.1 - - 404 0 2 1425 127 187
+2021-01-07 02:19:47 W3SVC1069003075 88.208.252.146 GET /humans.txt - 80 - 192.71.36.158 HTTP/1.1 Go-http-client/1.1 - - 404 0 2 1425 127 35
+2021-01-07 02:19:47 W3SVC1069003075 88.208.252.146 GET /ads.txt - 80 - 192.71.12.140 HTTP/1.1 Go-http-client/1.1 - - 404 0 2 1425 124 38
+2021-01-07 02:19:47 W3SVC1069003075 88.208.252.146 GET / - 80 - 192.71.12.140 HTTP/1.1 Go-http-client/1.1 - - 200 0 0 643 117 39

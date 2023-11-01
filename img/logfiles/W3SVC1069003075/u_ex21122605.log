@@ -1,0 +1,20 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-12-26 05:00:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-12-26 05:00:44 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 5.9.66.153 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - - 404 0 2 1406 165 186
+2021-12-26 05:00:47 W3SVC1069003075 88.208.252.146 GET / - 80 - 5.9.66.153 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - - 200 0 0 476 368 23
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-12-26 05:23:38
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-12-26 05:23:38 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 82.165.224.205 HTTP/1.1 IonCrawl+(https://www.ionos.de/terms-gtc/faq-crawler-en/) - - 404 0 2 1406 179 178
+2021-12-26 05:24:51 W3SVC1069003075 88.208.252.146 GET /sitemap.xml - 80 - 82.165.224.229 HTTP/1.1 IonCrawl+(https://www.ionos.de/terms-gtc/faq-crawler-en/) - - 404 0 2 1406 180 19
+2021-12-26 05:24:53 W3SVC1069003075 88.208.252.146 GET / - 80 - 82.165.224.229 HTTP/1.1 IonCrawl+(https://www.ionos.de/terms-gtc/faq-crawler-en/) - - 200 0 0 476 169 21
+2021-12-26 05:24:54 W3SVC1069003075 88.208.252.146 GET /wp-admin/admin-ajax.php - 80 - 82.165.224.229 HTTP/1.1 IonCrawl+(https://www.ionos.de/terms-gtc/faq-crawler-en/) - - 404 0 2 1406 192 19
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-12-26 05:40:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-12-26 05:40:47 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 207.46.13.232 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1406 282 147
+2021-12-26 05:40:50 W3SVC1069003075 88.208.252.146 GET / - 80 - 207.46.13.108 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 0 476 272 146

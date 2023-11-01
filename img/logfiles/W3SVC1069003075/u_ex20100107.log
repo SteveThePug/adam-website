@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-10-01 07:24:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-10-01 07:24:42 W3SVC1069003075 88.208.252.146 GET /index.php id=1%27 80 - 185.81.157.128 HTTP/1.1 Python-urllib/2.7 - - 404 0 2 1425 137 231

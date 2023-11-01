@@ -1,0 +1,13 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-06-08 02:12:15
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-06-08 02:12:15 W3SVC1069003075 88.208.252.146 GET / - 80 - 54.202.206.157 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 624 184 328
+2021-06-08 02:13:42 W3SVC1069003075 88.208.252.146 GET / - 80 - 52.43.126.53 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 624 184 250
+2021-06-08 02:24:06 W3SVC1069003075 88.208.252.146 GET /favicon.ico - 80 - 34.213.161.236 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 404 0 2 1406 195 155
+2021-06-08 02:24:10 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.213.161.236 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 624 184 187
+2021-06-08 02:25:48 W3SVC1069003075 88.208.252.146 GET /favicon.ico - 80 - 34.217.34.27 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 404 0 2 1406 195 153
+2021-06-08 02:25:53 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.217.34.27 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 624 184 155
+2021-06-08 02:33:05 W3SVC1069003075 88.208.252.146 GET /favicon.ico - 80 - 34.213.161.236 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 404 0 2 1406 195 153
+2021-06-08 02:33:09 W3SVC1069003075 88.208.252.146 GET / - 80 - 34.213.161.236 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 200 0 0 624 184 155
+2021-06-08 02:37:54 W3SVC1069003075 88.208.252.146 GET /favicon.ico - 80 - 35.162.172.220 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/83.0.4103.97+Safari/537.36 - - 404 0 2 1406 195 155

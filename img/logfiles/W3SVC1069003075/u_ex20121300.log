@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-12-13 00:13:17
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-13 00:13:16 W3SVC1069003075 88.208.252.146 GET /.env - 80 - 161.97.128.124 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 235 185
+2020-12-13 00:13:17 W3SVC1069003075 88.208.252.146 POST / - 80 - 161.97.128.124 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 405 0 1 1497 321 17
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-12-13 00:55:25
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-13 00:55:24 W3SVC1069003075 88.208.252.146 POST /.env - 80 - 85.214.151.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - - 404 0 2 1406 293 235
+2020-12-13 00:55:25 W3SVC1069003075 88.208.252.146 POST /laravel/.env - 80 - 85.214.151.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - - 404 0 2 1406 301 27

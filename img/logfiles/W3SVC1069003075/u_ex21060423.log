@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-06-04 23:28:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-06-04 23:28:59 W3SVC1069003075 88.208.252.146 GET / - 80 - 54.178.111.127 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/39.0.2171.95+Safari/537.36 - - 200 0 0 624 246 450
+2021-06-04 23:29:03 W3SVC1069003075 88.208.252.146 GET /FilePermissions.aspx - 80 - 54.178.111.127 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/39.0.2171.95+Safari/537.36 - - 404 0 2 1406 266 277
+2021-06-04 23:42:27 W3SVC1069003075 88.208.252.146 GET / - 80 - 62.149.29.53 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36+Kinza/4.8.2 - http://adam-french.co.uk/ 200 0 0 572 309 81

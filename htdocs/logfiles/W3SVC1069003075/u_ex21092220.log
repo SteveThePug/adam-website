@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-09-22 20:12:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-09-22 20:12:14 W3SVC1069003075 88.208.252.146 GET / - 80 - 195.201.145.141 HTTP/1.1 rest-client/2.1.0+(linux-gnu+x86_64)+ruby/2.7.2p137 - - 200 0 0 553 266 188

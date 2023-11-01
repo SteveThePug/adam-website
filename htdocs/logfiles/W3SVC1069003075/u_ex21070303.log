@@ -1,0 +1,22 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-07-03 03:41:06
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2021-07-03 03:41:06 W3SVC1069003075 88.208.252.146 GET / - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 200 0 0 624 231 361
+2021-07-03 03:41:06 W3SVC1069003075 88.208.252.146 GET /magento_version - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 246 135
+2021-07-03 03:41:06 W3SVC1069003075 88.208.252.146 GET /js/enterprise/adminhtml/staging.js - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 265 125
+2021-07-03 03:41:06 W3SVC1069003075 88.208.252.146 GET /js/lib/flex.js - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 245 127
+2021-07-03 03:41:06 W3SVC1069003075 88.208.252.146 GET /js/mage/adminhtml/backup.js - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 258 126
+2021-07-03 03:41:06 W3SVC1069003075 88.208.252.146 GET /js/mage/adminhtml/product.js - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 259 128
+2021-07-03 03:41:06 W3SVC1069003075 88.208.252.146 GET /js/mage/adminhtml/sales.js - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 257 127
+2021-07-03 03:41:06 W3SVC1069003075 88.208.252.146 GET /js/mage/adminhtml/tools.js - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 257 127
+2021-07-03 03:41:07 W3SVC1069003075 88.208.252.146 GET /js/prototype/validation.js - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 257 127
+2021-07-03 03:41:07 W3SVC1069003075 88.208.252.146 GET /js/varien/form.js - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 248 126
+2021-07-03 03:41:07 W3SVC1069003075 88.208.252.146 GET /js/varien/js.js - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 246 126
+2021-07-03 03:41:07 W3SVC1069003075 88.208.252.146 GET /js/varien/payment.js - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 251 126
+2021-07-03 03:41:07 W3SVC1069003075 88.208.252.146 GET /skin/adminhtml/default/default/below_ie7.css - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 275 126
+2021-07-03 03:41:07 W3SVC1069003075 88.208.252.146 GET /skin/adminhtml/default/default/boxes.css - 80 - 166.70.52.189 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - - 404 0 2 1406 271 272
+2021-07-03 03:42:19 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 212.227.216.55 HTTP/1.1 IonCrawl+(https://www.ionos.de/terms-gtc/faq-crawler-en/) - - 404 0 2 1406 179 18
+2021-07-03 03:44:22 W3SVC1069003075 88.208.252.146 GET /sitemap.xml - 80 - 212.227.216.23 HTTP/1.1 IonCrawl+(https://www.ionos.de/terms-gtc/faq-crawler-en/) - - 404 0 2 1406 180 18
+2021-07-03 03:44:23 W3SVC1069003075 88.208.252.146 GET / - 80 - 212.227.216.23 HTTP/1.1 IonCrawl+(https://www.ionos.de/terms-gtc/faq-crawler-en/) - - 200 0 0 624 169 18
+2021-07-03 03:44:25 W3SVC1069003075 88.208.252.146 GET /wp-admin/admin-ajax.php - 80 - 212.227.216.23 HTTP/1.1 IonCrawl+(https://www.ionos.de/terms-gtc/faq-crawler-en/) - - 404 0 2 1406 192 18

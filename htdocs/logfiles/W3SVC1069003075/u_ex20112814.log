@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-28 14:05:27
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-11-28 14:05:27 W3SVC1069003075 88.208.252.146 GET / - 80 - 52.152.144.119 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.111+Safari/537.36+Edg/86.0.622.61 - - 200 0 0 624 290 266
+2020-11-28 14:05:27 W3SVC1069003075 88.208.252.146 GET /wordpress/ - 80 - 52.152.144.119 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.111+Safari/537.36+Edg/86.0.622.61 - - 404 0 2 1406 300 79
+2020-11-28 14:05:27 W3SVC1069003075 88.208.252.146 GET /wp/ - 80 - 52.152.144.119 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.111+Safari/537.36+Edg/86.0.622.61 - - 404 0 2 1406 293 79
+2020-11-28 14:05:27 W3SVC1069003075 88.208.252.146 GET /new/ - 80 - 52.152.144.119 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.111+Safari/537.36+Edg/86.0.622.61 - - 404 0 2 1406 294 80
+2020-11-28 14:05:27 W3SVC1069003075 88.208.252.146 GET /old/ - 80 - 52.152.144.119 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.111+Safari/537.36+Edg/86.0.622.61 - - 404 0 2 1406 294 76
+2020-11-28 14:05:27 W3SVC1069003075 88.208.252.146 GET /blog/ - 80 - 52.152.144.119 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.111+Safari/537.36+Edg/86.0.622.61 - - 404 0 2 1406 295 76
+2020-11-28 14:05:28 W3SVC1069003075 88.208.252.146 GET /WordPress/ - 80 - 52.152.144.119 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.111+Safari/537.36+Edg/86.0.622.61 - - 404 0 2 1406 300 82
+2020-11-28 14:05:28 W3SVC1069003075 88.208.252.146 GET /Wordpress/ - 80 - 52.152.144.119 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.111+Safari/537.36+Edg/86.0.622.61 - - 404 0 2 1406 300 77

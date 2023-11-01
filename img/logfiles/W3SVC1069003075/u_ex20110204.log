@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-02 04:17:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-11-02 04:17:43 W3SVC1069003075 88.208.252.146 GET / - 80 - 20.190.61.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64) - google.com 200 0 0 572 181 350
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-02 04:55:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-11-02 04:55:02 W3SVC1069003075 88.208.252.146 GET /robots.txt - 80 - 167.86.70.217 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - - 404 0 2 1406 165 166
+2020-11-02 04:55:10 W3SVC1069003075 88.208.252.146 GET / - 80 - 167.86.70.217 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - - 200 0 0 624 368 66
